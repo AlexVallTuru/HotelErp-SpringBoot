@@ -6,7 +6,7 @@ Hotel ERP
 
 
 ## Video Hotel ERP
-[![HotelErpVideo](https://github.com/AlexVallTuru/HotelErp-SpringBoot/blob/master/readme_images/videoHotelErp.png)](https://www.youtube.com/watch?v=wy2oUR686r0&ab_channel=AlejandroGonz%C3%A1lezEspejo)
+[![HotelErpVideo](https://github.com/AlexVallTuru/HotelErp-SpringBoot/blob/master/readme_images/videoHotelErp.jpg)](https://www.youtube.com/watch?v=wy2oUR686r0&ab_channel=AlejandroGonz%C3%A1lezEspejo)
 
 ## Memoria del proyecto
 
